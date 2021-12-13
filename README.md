@@ -6,6 +6,8 @@ The codes lie down below. Enjoy :) Please star it to let me know if it's useful 
 
 'This class is based on fmz.com. Click https://www.fmz.com/api for more details.'
 
+
+
 class midclass():
     def _init_(self, current_exchange):
         '''Initialized data to fill exchange information, get price or account information for the first time
