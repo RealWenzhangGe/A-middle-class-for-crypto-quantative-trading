@@ -1,4 +1,4 @@
-# A-middle-class-for-crypto-quantative-trading
+# a-middle-class-for-crypto-quantative-trading
 Hi everyone, Wenzhang here.
 For anyone who wants to trade cryptocurrency in a quantative manner, the process of the original APIs from crypto exchanges( Binance, OKCoin, etc.) couldnt be ignored. You need to deal with them to make your trade a reality. However, a quant should focus more on the stradegy level, instead being caught in endless details amid different API processes.
 And that's why I'm here. Here's a middle class file based on https://www.fmz.com/, which is one of the biggest quantative crypto trading platform in China. One can easily use the middle class to deal with those APIs. And it would be really helpful no matter you choose to trade on https://www.fmz.com/ or on your own.
